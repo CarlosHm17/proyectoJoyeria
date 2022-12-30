@@ -11,16 +11,27 @@ html {
 
 body {
     background-color: rgb(245,245,245);
+    min-width: 425px;
+    max-width: 425px;
+    margin: 0 auto;
 }
 
 header {
+    z-index: 1;
+    min-width: 425px;
+    max-width: 425px;
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
     width: 100%;
-    position: fixed;
     background-color: rgb(245,245,245);
+}
+h3 {
+    position: absolute;
+    top: 30px;
+    font-size: 1rem;
 }
 
 header a {
@@ -37,6 +48,264 @@ header a {
     background-color: rgb(245,245,245);
 }
 
+
+
+.precio1 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 175px;
+    left: 10px;
+}
+.precio2 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 175px;
+    left: 225px;
+}
+.precio3 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 375px;
+    left: 10px;
+}
+.precio4 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 375px;
+    left: 225px;
+}
+.precio5 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 575px;
+    left: 10px;
+}
+.precio6 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 575px;
+    left: 225px;
+}
+.precio7 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 800px;
+    left: 10px;
+}
+.precio8 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 800px;
+    left: 225px;
+}
+.precio9 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1000px;
+    left: 10px;
+}
+.precio10 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1000px;
+    left: 225px;
+}
+.precio11 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1220px;
+    left: 10px;
+}
+.precio12 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1220px;
+    left: 225px;
+}
+.precio13 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1430px;
+    left: 10px;
+}
+.precio14 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1430px;
+    left: 225px;
+}
+.precio15 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1640px;
+    left: 10px;
+}
+.precio16 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1640px;
+    left: 225px;
+}
+.precio17 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1840px;
+    left: 10px;
+}
+.precio18 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 1840px;
+    left: 225px;
+}
+.precio19 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2060px;
+    left: 10px;
+}
+.precio20 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2060px;
+    left: 225px;
+}
+.precio21 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2270px;
+    left: 10px;
+}
+.precio22 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2270px;
+    left: 225px;
+}
+.precio23 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2480px;
+    left: 10px;
+}
+.precio24 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2480px;
+    left: 225px;
+}
+.precio25 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2700px;
+    left: 10px;
+}
+.precio26 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2700px;
+    left: 225px;
+}
+.precio27 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2920px;
+    left: 10px;
+}
+.precio28 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 2920px;
+    left: 225px;
+}
+.precio29 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 3140px;
+    left: 10px;
+}
+.precio30 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 3140px;
+    left: 225px;
+}
+.precio31 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 3325px;
+    left: 10px;
+}
+.precio32 {
+    background-color: white;
+    border-radius: 5px;
+    padding: 3px;
+    position: absolute;
+    top: 3325px;
+    left: 225px;
+}
 
 
 .containerAnillosFotos {
